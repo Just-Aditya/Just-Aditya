@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software Developer focused on building scalable, real-world applications by combining backend engineering, machine learning, and modern web technologies.<br><br>Experienced in designing efficient systems, developing intelligent solutions, and integrating data-driven approaches to solve practical problems. Strong background in full-stack development, with particular expertise in backend architecture and machine learning pipelines.<br><br>Interested in building systems where software, data, and real-time inputs converge to deliver meaningful impact.
 
 
